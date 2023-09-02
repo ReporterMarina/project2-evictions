@@ -13,7 +13,7 @@
 <br>
 <br>
 <h1>Summary of the data collection process, with links</h1>
-<p> I used <a href="https://github.com/bertrandmartel/tableau-scraping">a wonderful Tableau scraping tool created by Bertrandmartel to download .CSV files from Tableau visualizations maintained by the Massachusetts state trial court system. The trial court system has refused to simply allow the public to download data from its public Tableau visualization. I have requested the data but have only received partial data for another visualization. The state trial court system has correctly stated that the judiciary is exempt from the public records access law. </a> </p>
+<p> I used <a href="https://github.com/bertrandmartel/tableau-scraping">a wonderful</a> Tableau scraping tool created by Bertrandmartel to download .CSV files from Tableau visualizations maintained by the Massachusetts state trial court system. The trial court system has refused to simply allow the public to download data from its public Tableau visualization. I have requested the data but have only received partial data for another visualization. The state trial court system has correctly stated that the judiciary is exempt from the public records access law. </a> </p>
 <p> I used the following data sets for the state of Massachusetts:</p>
 
 <p><a href="https://public.tableau.com/shared/4RPS78R3R?:display_count=n&:origin=viz_share_link">2020-2023 eviction orders</a></p>
@@ -39,4 +39,4 @@
 </p>
 
 
-<p>Link to Github project: <a href="https://marinav13.github.io/MyProject/">here</a></p>
+<p>Link to Github project: <a href="https://reportermarina.github.io/project2-evictions/">here</a></p>
